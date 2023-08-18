@@ -1,8 +1,9 @@
 # note-stack-feedback_form
-#This is a simple feedback form website completly responsive for the app NoteStack, developed by @sanjith1309
+# A simple feedback form website completely responsive for the app NoteStack, developed by @sanjith1309
 
 Tech stack:
-  React JS
+  + React JS
+  + Netlify (Hosting)
 
 Instructions to use :
 
